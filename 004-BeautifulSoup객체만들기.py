@@ -12,7 +12,7 @@ print('\n')
 print(soup.head)
 print('\n')
 print(soup.body)
-print('\n')
+print('\n') 
 
 print('title 테그요소:', soup.title)
 print('title 테그이름:', soup.title.name)
